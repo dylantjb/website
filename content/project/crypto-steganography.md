@@ -4,8 +4,6 @@ description: "Computer Science A Level coursework"
 featured_image: "/images/mario.jpg"
 title: "Crypto Steganography project"
 ---
-[![Run on Repl.it](https://repl.it/badge/github/dylan9012/crypto-stego-project)](https://repl.it/github/dylan9012/crypto-stego-project)
-
 ## Project background
 When learning about cryptography in A Level Computer Science, I came across steganography in relation to hiding data. To make steganography more secure, I researched ways of using cryptography and steganography in combination to improve the aim of hiding media (e.g. a message) inside an image. My method of attaining this combination is to use a randomly shuffled least significant bit steganography algorithm to scatter data onto the cover image to become untraceable. With this combination, I feel there will be a greater chance that eavesdroppers will not be able to recover the media and aid encryption.
 
@@ -22,19 +20,19 @@ A Comparative Study of Recent Steganography Techniques for Multiple Image Format
 Brain Oakley’s answer to: [Best way to structure a tkinter application?](https://stackoverflow.com/questions/17466561/best-way-to-structure-a-tkinter-application)
 
 ## Objectives
-Objective one – Main interface:<br/>  
-•	Functional message box to output strings<br/>  
-•	Menu bar for user to choose option<br/>  
-•	File browsing to select media to input<br/>  
-•	Display entry box for user input<br/>  
-•	Display radio buttons for user input<br/>  
+Objective one – Main interface:  
+•	Functional message box to output strings  
+•	Menu bar for user to choose option  
+•	File browsing to select media to input  
+•	Display entry box for user input  
+•	Display radio buttons for user input  
 •	Implement queue for multiple files to embed
 
-Objective two – Main program:<br/>  
-•	Exception handling and prompts to validate inputs<br/>  
-•	Add option to extract media from cover image<br/>  
-•	Add option to embed an image into cover image<br/>  
-•	Watermark cover image to detect if media can be extracted.<br/>  
+Objective two – Main program:   
+•	Exception handling and prompts to validate inputs  
+•	Add option to extract media from cover image  
+•	Add option to embed an image into cover image   
+•	Watermark cover image to detect if media can be extracted  
 •	Add compatibility for popular image formats {.jpg, .gif, .png, .tif, .pdf, .bmp}
 
 
