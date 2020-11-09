@@ -18,6 +18,7 @@ enableRobotsTXT = true
 [params]
   favicon = "/images/favicon.ico"
   site_logo = "/images/developer.ico"
+  body_classes = "serif bg-light-gray"
   description = ""
   facebook = ""
   twitter = ""
