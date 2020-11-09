@@ -6,6 +6,6 @@ Greetings! I'm a student studying at King's College London, hoping to specialise
 
 
 
-[{{< figure src="/images/cv.png" title="Curriculum Vitae" >}}]({{< ref "/cv" >}} "Curriculum Vitae")
+[{{< figure src="/images/cv.png" title="Curriculum Vitae" >}}](/cv/)
 
 
