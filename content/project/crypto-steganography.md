@@ -2,6 +2,7 @@
 date: 2019-06-12T11:14:48-04:00
 description: "Computer Science A Level coursework"
 featured_image: "/images/mario.jpg"
+tags: ["Python"]
 title: "Crypto Steganography"
 ---
 [Project link](https://github.com/dylantjb/crypto-stego-project)

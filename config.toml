@@ -10,6 +10,9 @@ Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[taxonomies]
+  tag = "tags"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
@@ -21,10 +24,10 @@ enableRobotsTXT = true
   body_classes = "avenir bg-light-gray"
   description = ""
   facebook = ""
-  twitter = ""
+  twitter = "https://twitter.com/dylantjb"
   instagram = ""
   youtube = ""
-  github = "https://github.com/dylan9012"
+  github = "https://github.com/dylantjb"
   gitlab = ""
   linkedin = "https://www.linkedin.com/in/dylantjb"
   mastodon = ""
@@ -34,8 +37,3 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/home-background.jpg"
   recent_posts_number = 2
-
-
-
-# TODO: Optimise website images
-#       
