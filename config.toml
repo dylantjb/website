@@ -18,10 +18,13 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+
+
 [params]
   favicon = "/images/favicon.ico"
   site_logo = "/images/developer.ico"
   body_classes = "avenir bg-light-gray"
+  images = ["/images/social-media.png"]
   description = ""
   facebook = ""
   twitter = "https://twitter.com/dylantjb"
