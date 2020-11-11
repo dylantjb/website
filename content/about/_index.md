@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "A short personal statement"
+description: "An overview of my experience in programming languages and soft skills gained as a student."
 featured_image: '/images/skyline.jpg'
 ---
 {{< figure src="/images/headshot.jpg" >}}

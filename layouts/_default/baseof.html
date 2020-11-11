@@ -5,10 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <meta property="og:image" content="https://www.dropbox.com/s/t3oyt97yerg8h0t/social-image.jpg?raw=1"/>
-    <meta id="meta-keywords" name="keywords" content="Dylan Barker; Dylan; Barker; DylanBarker; dylanbarker; dylantjb; dylantj; dylan9012" />
 
     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
-    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{.Site.Title}} » {{ with .Params.Title }}{{ . }}{{ end }}{{ end }}</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     {{ hugo.Generator }}
@@ -58,7 +57,7 @@
     {{ block "main" . }}{{ end }}
 
 </main>
-<a href="https://iconscout.com/icons/computer" target="_blank">Computer</a> by <a href="https://iconscout.com/contributors/pocike" target="_blank">Alpár - Etele Méder</a>
+Computer by <a href="https://iconscout.com/contributors/pocike" target="_blank">Alpár - Etele Méder</a>
 
 {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 {{ block "scripts" . }}{{ partialCached "site-scripts.html" . }}{{ end }}
