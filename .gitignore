@@ -2,29 +2,16 @@
 .DS_Store
 Thumbs.db
 
-# IDEs
-.buildpath
-.project
-.settings/
-.build/
-.idea/
-public/
-nbproject/
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
-# Vagrant
-.vagrant/
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
 
-# FE Setup
-.bin/node_modules/
-/node_modules/
-src/node_modules/
-src/npm-debug.log.*
-npm-debug.log
-/npm-debug.log*
-/dist/
-/src/client.config.json
-/styleguide/
-/docs/
-
-/junit.xml
-partials/structure/stylesheet.html
+# Temporary lock file while building
+/.hugo_build.lock
