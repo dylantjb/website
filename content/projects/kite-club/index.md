@@ -7,4 +7,4 @@ slug: "the-kite-club"
 
 {{< github repo="dylantjb/kite-club" >}}
 <br>
-{{< github_readme "dylantjb/kite-club" >}}
+{{< github-readme "dylantjb/kite-club" >}}

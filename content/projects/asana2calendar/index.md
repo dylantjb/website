@@ -7,4 +7,4 @@ showTableOfContents: true
 
 {{< github repo="dylantjb/asana2calendar" >}}
 <br>
-{{< github_readme "dylantjb/asana2calendar" >}}
+{{< github-readme "dylantjb/asana2calendar" >}}

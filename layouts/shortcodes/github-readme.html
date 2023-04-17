@@ -4,4 +4,3 @@
 {{- $response := getJSON $url -}}
 {{- $content := base64Decode $response.content | markdownify -}}
 {{ replaceRE `(?s)<h[1-2].*?>.*?</h[1-2]>` "" $content 1 | markdownify }}
-
