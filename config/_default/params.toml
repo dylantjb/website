@@ -12,16 +12,16 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = [ "blog" ]
 robots = "allow"
 
 disableImageOptimization = false
 
 defaultBackgroundImage = "/img/background.jpg" # used as default for background images 
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed" # valid options: basic, fixed
@@ -68,7 +68,7 @@ defaultBackgroundImage = "/img/background.jpg" # used as default for background 
   showTaxonomies = false 
   showAuthorsBadges = false 
   showWordCount = true
-  showSummary = true
+  # showSummary = true
   sharingLinks = [ "linkedin", "twitter", "facebook", "email" ]
 
 [list]
@@ -81,9 +81,9 @@ defaultBackgroundImage = "/img/background.jpg" # used as default for background 
   #showViews = true
   #showLikes = true
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

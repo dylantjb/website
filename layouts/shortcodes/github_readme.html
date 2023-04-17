@@ -1,0 +1,7 @@
+{{ $repo := .Get 0 }}
+
+{{- $url := printf "https://api.github.com/repos/%s/readme" $repo -}}
+{{- $response := getJSON $url -}}
+{{- $content := base64Decode $response.content | markdownify -}}
+{{ replaceRE `(?s)<h[1-2].*?>.*?</h[1-2]>` "" $content 1 | markdownify }}
+
