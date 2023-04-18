@@ -44,7 +44,7 @@ dateFormat = "2 January 2006"
     # { microsoft = "https://www.microsoft.com/" },
     # { orcid = "https://orcid.org/userid" },
     # { patreon = "https://www.patreon.com/username" },
-    { pgpkey = "/pgp.txt" },
+    { pgpkey = "https://keyserver.ubuntu.com/pks/lookup?search=6D942132C1617271F5D0F33AF12E90C9C682C56E&fingerprint=on&op=index" },
     # { pinterest = "https://pinterest.com/username" },
     # { reddit = "https://reddit.com/user/username" },
     # { researchgate = "https://www.researchgate.net/profile/username" },

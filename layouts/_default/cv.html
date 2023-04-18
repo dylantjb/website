@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <link rel="shortcut icon" href="/favicon/favicon.ico" type="image/x-icon" />
+  <meta itemprop="description" content="{{ .Params.Summary }}">
+  <meta name="description" content="{{ .Params.Summary }}">
+  <meta property="og:description" content="{{ .Params.Summary }}">
+  <meta name="twitter:description" content="{{ .Params.Summary }}">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="generator" content="Hugo 0.111.3" />
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+  <meta property="og:image" content="https://dylantjb.com/images/curriculum-vitae.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://dylantjb.com/cv" />
+  <meta property="twitter:image" content="https://dylantjb.com/images/curriculum-vitae.png" />
+  <meta name="twitter:card" content="summary" />
+  <style type="text/css">
+    body,
+    html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+  </style>
+</head>
+{{ .Content | emojify }}
+</html>
