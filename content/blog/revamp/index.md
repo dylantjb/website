@@ -1,6 +1,8 @@
 ---
 title: "Revamping My Website: A Journey with Hugo and Static Site Generation"
+summary: "Discover the journey of revamping a personal website with Hugo, a powerful static site generator. Learn about the ease of use, flexibility of templating language, performance optimization, and web development concepts like SEO and accessibility. Get inspired by the professionalism and attention to detail reflected in this sleek and modern website."
 date: 2023-04-15T14:50:20+01:00
+slug: "website-revamp-using-hugo"
 ---
 
 As a computer science student with a passion for web development, I recently decided to give my personal website a much-needed facelift. After careful consideration and research, I settled on using Hugo, a popular static site generator, to revamp my website and take better care of it.

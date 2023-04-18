@@ -1,5 +1,6 @@
 ---
 title: "About"
+summary: "Learn about a computer science student's passion for open source software, L"
 
 showDate : false
 showReadingTime : false
@@ -8,12 +9,14 @@ sharingLinks : false
 heroStyle: background
 ---
 
-As a second-year computer science student at King's College London, I have developed a strong foundation in the fundamental principles of computer science and a passion for exploring the field of artificial intelligence. The intersection of technology and the human experience has always intrigued me, and I believe that artificial intelligence has the potential to revolutionize the way we live and work.
+Hello! I am a second-year computer science student at King's College London, with a passion for both artificial intelligence and software engineering. I believe that the intersection of these two fields holds immense potential for driving innovation and solving complex problems.
 
-During my first year at King's, I took courses in programming, data structures and algorithms, and databases, all of which have equipped me with a strong understanding of the building blocks of computer science. However, it was my course on artificial intelligence that truly sparked my interest in the field. The idea of creating systems that can learn, reason, and make decisions on their own is both fascinating and challenging, and I am eager to continue exploring this area.
+Throughout my academic journey, I have gained a solid foundation in software engineering and development. I have taken modules that have exposed me to various programming languages, software development methodologies, and design principles. I have actively participated in group projects, honing my skills in collaborative coding, version control, and project management. I take pride in the results achieved through these group efforts and have been able to apply theoretical concepts to real-world software development scenarios.
 
-Outside of the classroom, I have been actively involved in the King's College London AI Society, where I have had the opportunity to engage in discussions and participate in workshops on a variety of topics related to AI. I have also been working on coursework to develop my skills and gain hands-on experience, such as working in a group to create a web app and recommendation system for books based on user clubs.
+One aspect of software engineering that has greatly intrigued me is the world of open source software. I have been exploring the underpinnings of Linux software, understanding the inner workings of the Linux operating system and contributing to open source projects. I believe that open source software promotes collaboration and innovation, and I am committed to leveraging its power to create meaningful and impactful software solutions.
 
-Going forward, I hope to continue to develop my knowledge and skills in artificial intelligence, with the ultimate goal of contributing to the development of AI systems that are ethical, transparent, and socially responsible. I am confident that my strong academic background and passion for the field will enable me to achieve my goals.
+I have also delved into the fascinating realm of artificial intelligence during my studies. I have gained insights into machine learning algorithms, natural language processing, and computer vision. I am intrigued by the potential of AI to transform industries such as healthcare, finance, and transportation, and I am excited to continue my exploration in this field.
 
-In conclusion, I am excited about the opportunities that lie ahead and am eager to continue my studies at King's College London. I am confident that my passion for artificial intelligence, combined with my academic background and commitment to continued learning, will enable me to make a meaningful contribution to the field.
+In addition to my academic pursuits, I am an active member of the King's AI Society and the KCL Tech Society. I attend guest speaker events, workshops, and hackathons, where I gain insights into different branches of technology, including artificial intelligence and software engineering. These experiences have helped me broaden my horizons and stay updated with the latest advancements in the field.
+
+In conclusion, as a second-year computer science student at King's College London, I am passionate about both artificial intelligence and software engineering. I have been actively engaged in exploring the underpinnings of Linux software, contributing to open source projects, and participating in group work and events organized by the King's AI Society and KCL Tech Society. I am eager to continue my journey of learning, growing, and contributing to the ever-evolving world of technology.
