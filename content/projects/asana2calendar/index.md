@@ -6,4 +6,4 @@ summary: "Syncs your Asana calendar across multiple platforms"
 
 {{< github repo="dylantjb/asana2calendar" >}}
 <br>
-{{< github-readme "dylantjb/asana2calendar" >}}
+{{% github-readme "dylantjb/asana2calendar" %}}
