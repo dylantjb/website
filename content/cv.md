@@ -5,4 +5,4 @@ summary: "Discover the skills and qualifications of a talented second-year compu
 layout: cv
 ---
 
-<iframe src="/docs/dylan_barker.pdf" width="100%" height="100%"></iframe>
+<iframe src="/pdf/dylan_barker.pdf" width="100%" height="100%"></iframe>
