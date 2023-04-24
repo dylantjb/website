@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Dylan Barker"
-  image = "img/headshot.jpg"
+  image = "img/headshot.png"
   headline = "CompSci Student @ KCL"
   # bio = "A little bit about you"
   links = [
