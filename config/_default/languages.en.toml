@@ -1,16 +1,15 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
 
-title = "Dylan Barker"
-logo = "img/logo.png"
-description = "Welcome to Dylan Barker's personal website! Explore his CV, projects, and blog, as a second-year computer science student with a passion for technology. Discover his impressive projects, ranging from web applications to coding challenges. Read his insights on technology and computer science on his blog. Connect with him on social media for networking and collaborations."
+[params]
+  logo = "img/logo.png"
+  description = "Welcome to Dylan Barker's personal website! Explore his CV, projects, and blog, as a second-year computer science student with a passion for technology. Discover his impressive projects, ranging from web applications to coding challenges. Read his insights on technology and computer science on his blog. Connect with him on social media for networking and collaborations."
+  isoCode = "en"
 # copyright = "Copy, _right?_ :thinking_face:"
-
-dateFormat = "2 January 2006"
+  displayName = "EN"
+  dateFormat = "2 January 2006"
+  rtl = false
 
 [author]
   name = "Dylan Barker"
